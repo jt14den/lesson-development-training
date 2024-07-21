@@ -4,6 +4,8 @@
 [![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://slack-invite.carpentries.org/)
 [![Build and Deploy Site](https://github.com/carpentries/lesson-development-training/actions/workflows/sandpaper-main.yaml/badge.svg)](https://github.com/carpentries/lesson-development-training/actions/workflows/sandpaper-main.yaml)
 
+This is a modified version of the Collaborative Lesson Development Training to be used by the UCLA-IMLS Open Science for Librarians project. 
+
 
 Curriculum for a short (six half days) workshop teaching skills required for
 collaborative lesson development. The lesson is visible at: https://carpentries.github.io/lesson-development-training/.
